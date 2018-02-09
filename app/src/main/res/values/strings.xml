@@ -21,4 +21,7 @@
     <string name="control_lights">control lights</string>
     <string name="notification">Notification</string>
     <string name="sign_out">sign out</string>
+    <string name="manage_account">manage Account</string>
+    <string name="clock_alarm">clock alarm</string>
+    <string name="coontrol_string_control_lights">coontrol @string/control_lights</string>
 </resources>
